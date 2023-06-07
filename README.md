@@ -1,6 +1,6 @@
 ### Hi there, I'm Isaac 👋
 
-##I'm Developer.
+### I'm Developer.
 
 - 🌱 I’m currently learning C#
 - 💬 Ask me about ... Anything
