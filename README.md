@@ -7,9 +7,10 @@
 - ⚡ Fun fact: I love playing RPG or any other games with my friends.
 
 ## Talk with me:
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/IsaacSG/IsaacSG/assets/54876928/e204b5ac-7933-4538-9b1c-da2d92dc7b55)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-https://www.linkedin.com/in/isaac-graciano/
+<br />
+
 
 ## Languages and Tools:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/IsaacSG/IsaacSG/assets/54876928/4f0c9d61-b527-4694-9019-6047dae3c730)
@@ -23,3 +24,20 @@ https://www.linkedin.com/in/isaac-graciano/
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465](https://github.com/IsaacSG/IsaacSG/assets/54876928/69198380-b741-4490-9240-55bce274c3c9)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465](https://github.com/IsaacSG/IsaacSG/assets/54876928/caf89277-b63f-48cc-a163-ad15abc22f11)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b](https://github.com/IsaacSG/IsaacSG/assets/54876928/d6dee339-7378-4274-9498-6e45ba8826ad)
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Isaac GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IsaacSG&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Isaac GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSG" />
+
+</details>
+
+[linkedin]: https://linkedin.com/in/annaarsentieva
