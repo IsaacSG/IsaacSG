@@ -6,8 +6,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I love playing RPG or any other games with my friends.
 
-## Talk with me:
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+## Talk with me:![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/IsaacSG/IsaacSG/assets/54876928/e204b5ac-7933-4538-9b1c-da2d92dc7b55)
 https://www.linkedin.com/in/isaac-graciano/
 
 ## Languages and Tools:
