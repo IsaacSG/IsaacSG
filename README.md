@@ -40,4 +40,4 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: https://www.linkedin.com/in/isaac-graciano/
